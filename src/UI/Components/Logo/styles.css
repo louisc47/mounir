@@ -1,0 +1,12 @@
+.logo-container {
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  height: 80px;
+  display: flex;
+}
+
+.logo-subcontainer {
+    display: flex;
+    flex-direction: column;
+  }

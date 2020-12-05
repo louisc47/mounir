@@ -1,0 +1,41 @@
+.menu-drawer {
+  background-color: black;
+  position: fixed;
+  right: 0px;
+  width: 50%;
+  top: 0px;
+  padding: 15px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.menu-drawer-button {
+  background: none;
+  border: none;
+}
+.menu-drawer-list {
+  color: white;
+  font-size: 40px;
+  list-style: none;
+  width: 100%;
+}
+.menu-drawer-listitem {
+  font-size: 55px;
+  font-weight: bold;
+  color: black !important;
+  text-decoration: none !important;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+}
+.menu-drawer-listitem:hover {
+  color: white !important;
+}
+
+.menu-button {
+  position: fixed;
+  right: 15px;
+  top: 15px;
+  background: none;
+  border: none;
+}

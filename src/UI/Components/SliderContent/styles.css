@@ -1,0 +1,19 @@
+.slider-content-overlay{
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    position: absolute;
+    top: 0px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.slider-content-title{
+    font-size: 78px;
+    color: white;
+    margin: 0px;
+}
+.slider-content-tasks{
+    color: white;
+}
